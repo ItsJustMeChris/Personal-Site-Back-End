@@ -8,7 +8,7 @@
     "fastify": "^2.15.1",
     "fastify-cors": "^2.1.3",
     "fastify-file-upload": "^1.0.0",
-    "fastify-static": "^2.5.0",
+    "fastify-static": "^4.2.4",
     "fastify-vhost": "^1.1.4",
     "moniker": "^0.1.2",
     "pg": "^7.12.1",
